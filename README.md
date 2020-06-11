@@ -1,6 +1,9 @@
 # Goals
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This Goal project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+
+## Author
+`Jack Oyugi`
 
 ## Development server
 
@@ -21,6 +24,11 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Technologist used
+<li>Angular</li>
+<li>Bootstrap</li>
+<li>Styles.css</li>
 
 ## Further help
 
